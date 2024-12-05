@@ -1,0 +1,26 @@
+/*estilo*/
+
+*{
+    margin:20;
+    padding:20;
+    box-sizing: bonder-box;
+    font-family: monospace;
+}
+
+body{
+    background-color:rgb(216, 198, 198)
+}
+
+ul{
+    display: list-item;
+margin: 0 10 px;
+font-size 24px;
+text-decoreition: none;
+color: rgb(5, 5, 5);
+}
+
+img {
+    text-align: center;
+    width: 150px;
+    padding: 10px;
+}
